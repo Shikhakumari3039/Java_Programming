@@ -1,5 +1,8 @@
 package Command_Line_Argument;
 
+/**
+ * first
+ */
 public class first {
     public static void main(String args[]) {
         int i;
@@ -13,4 +16,5 @@ public class first {
         d=Double.parseDouble(args[2]);
         System.out.println("d="+d);
     }
+    
 }
