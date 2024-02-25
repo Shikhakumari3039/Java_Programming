@@ -1,4 +1,4 @@
-package Basic;
+// package Basic;
 
 public class bitwise_operators {
         public static void main(String[] args) {

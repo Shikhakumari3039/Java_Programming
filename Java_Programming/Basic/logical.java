@@ -1,4 +1,4 @@
-package Basic;
+// package Basic;
 
 public class logical {
         public static void main(String[] args) {
