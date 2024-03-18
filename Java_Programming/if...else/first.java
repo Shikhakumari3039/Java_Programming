@@ -12,4 +12,4 @@ public class first {
       
           System.out.println("Statement outside if block");
         }
-    }
+      }
